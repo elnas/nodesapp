@@ -1,0 +1,16 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "just for fun",
+  "main": "myapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nas",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "gulp": "^3.9.1"
+  }
+}
