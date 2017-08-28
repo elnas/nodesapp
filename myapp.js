@@ -6,7 +6,7 @@ app.set('view engine', 'ejs');
 app.locals.pagetitle = "Awesome Website ";
 
 app.get('/',routes.index);
-app.get('/about',routes.about);
+app.get('/about',routes.about);//url
 
 
 
